@@ -44,7 +44,13 @@
 <br />
 <br />
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-updated-silk.vercel.app/api?username=sohanur-rahman0&show_icons=true&hide_border=true" />
+---
+
+<img align="left" alt="Sohanur Rahman's Github Stats" src="https://github-readme-stats-updated-silk.vercel.app/api?username=sohanur-rahman0&show_icons=true&hide_border=true" />
+
+---
+
+<img align="left" alt="Most Used Languages" src="https://github-readme-stats-updated-silk.vercel.app/api/top-langs/?username=sohanur-rahman0&show_icons=true&hide_border=true" />
 
 [facebook]: https://facebook.com/sohanur.rahman147
 [twitter]: https://twitter.com/sohanur1497
