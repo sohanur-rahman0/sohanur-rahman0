@@ -44,6 +44,8 @@
 <br />
 <br />
 
+<img align="left" alt="Sohanur Rahman's Github Stats" src="https://github-readme-stats.sohanur-rahman0.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
 [facebook]: https://facebook.com/sohanur.rahman147
 [twitter]: https://twitter.com/sohanur1497
 [instagram]: https://instagram.com/sohanur.rahman149
