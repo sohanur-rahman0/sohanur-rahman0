@@ -50,9 +50,7 @@
 <br/>
 <br/>
 
----
 
-<img align="left" alt="Most Used Languages" src="https://github-readme-stats-updated-silk.vercel.app/api/top-langs/?username=sohanur-rahman0&show_icons=true&hide_border=true" />
 
 [facebook]: https://facebook.com/sohanur.rahman147
 [twitter]: https://twitter.com/sohanur1497
