@@ -2,7 +2,7 @@
 
 ## I'm a Student, Studying Computer Science!
 
-- 🔭 I’m currently working on building an express.js application!
+- 🔭 I’m currently working on building an E-commerce web application!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other web developer
 - 🥅 2020 Goals: Learn backend and improve front-end design
