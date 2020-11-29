@@ -10,7 +10,7 @@
 
 
 ### Connect with me:
-[<img align="left" alt="Sohanur Rahman | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Sohanur Rahman | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Sohanur Rahman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Sohanur Rahman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Sohanur Rahman | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -56,7 +56,7 @@
 
 
 
-[facebook]: https://facebook.com/sohanur.rahman147
+[facebook]: https://facebook.com/sohanur.rahman149
 [twitter]: https://twitter.com/sohanur1497
 [instagram]: https://instagram.com/sohanur.rahman149
 [linkedin]: https://www.linkedin.com/in/sohanur-rahman-4b9009185/
