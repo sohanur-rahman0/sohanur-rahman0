@@ -55,9 +55,7 @@
 <img align="left" alt="Sohanur Rahman's Github Stats" src="https://github-readme-stats-updated-git-master-sohanur-rahman0.vercel.app/api?username=sohanur-rahman0&show_icons=true&hide_border=true" />
 <br/>
 <br/>
-<img align="left" alt="Sohanur Rahman's Github Stats" src="https://github-readme-stats-updated-git-master-sohanur-rahman0.vercel.app/api/top-langs/?username=sohanur-rahman0" />
-<br/>
-<br/>
+
 
 
 [facebook]: https://facebook.com/sohanur.rahman149
