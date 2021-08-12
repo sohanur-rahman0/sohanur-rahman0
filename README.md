@@ -52,7 +52,7 @@
 
 ---
 
-<img align="left" alt="Sohanur Rahman's Github Stats" src="https://github-readme-stats-updated-silk.vercel.app/api?username=sohanur-rahman0&show_icons=true&hide_border=true" />
+<img align="left" alt="Sohanur Rahman's Github Stats" src="https://github-readme-stats-updated-git-master-sohanur-rahman0.vercel.app//api?username=sohanur-rahman0&show_icons=true&hide_border=true" />
 <br/>
 <br/>
 
