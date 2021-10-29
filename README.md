@@ -8,6 +8,8 @@
 - 🥅 2021 Goals: Learn backend and improve front-end design
 - ⚡ Fun fact: I love watching movies, tv-series, anime
 
+[![Visits Badge](https://badges.pufler.dev/visits/sohanur-rahman0/sohanur-rahman0)](https://github.com/sohanur-rahman0)
+
 
 ### Connect with me:
 [<img align="left" alt="Sohanur Rahman | Facebook" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png" />][facebook]
