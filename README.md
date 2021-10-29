@@ -9,6 +9,7 @@
 - ⚡ Fun fact: I love watching movies, tv-series, anime
 
 [![Visits Badge](https://badges.pufler.dev/visits/sohanur-rahman0/sohanur-rahman0)](https://github.com/sohanur-rahman0)
+[![Years Badge](https://badges.pufler.dev/years/sohanur-rahman0)](https://badges.pufler.dev)
 
 
 ### Connect with me:
