@@ -10,6 +10,7 @@
 
 [![Visits Badge](https://badges.pufler.dev/visits/sohanur-rahman0/sohanur-rahman0)](https://github.com/sohanur-rahman0)
 [![Years Badge](https://badges.pufler.dev/years/sohanur-rahman0)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/sohanur-rahman0)](https://badges.pufler.dev)
 
 
 ### Connect with me:
