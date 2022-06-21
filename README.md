@@ -57,14 +57,17 @@
 
 ---
 
-<img align="left" alt="Sohanur Rahman's Github Stats" src="https://github-readme-stats-updated-git-master-sohanur-rahman0.vercel.app/api?username=sohanur-rahman0&show_icons=true&hide_border=true" />
-<br/>
-<br/>
-<img align="left" alt="Github streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sohanur-rahman0&theme=radical&hide_border=false" />
+![Sohanur's GitHub stats](https://github-readme-stats-updated-git-master-sohanur-rahman0.vercel.app/api?username=sohanur-rahman0&show_icons=true&theme=radical)
+
 <br/>
 <br/>
 
-![Sohanur's GitHub stats](https://github-readme-stats-updated-git-master-sohanur-rahman0.vercel.app/api?username=sohanur-rahman0&show_icons=true&theme=radical)
+![Sohanur's GitHub streaks](https://github-readme-streak-stats.herokuapp.com/?user=sohanur-rahman0&theme=radical&hide_border=false)
+
+<br/>
+<br/>
+
+
 
 
 
