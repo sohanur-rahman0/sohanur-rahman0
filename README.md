@@ -14,7 +14,7 @@
 [![Commits Badge](https://badges.pufler.dev/commits/yearly/sohanur-rahman0)](https://badges.pufler.dev)
 
 
-### Connect with me:
+### 🌐Connect with me:
 [<img align="left" alt="Sohanur Rahman | Facebook" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png" />][facebook]
 [<img align="left" alt="Sohanur Rahman | Instagram" width="22px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png" />][instagram]
 [<img align="left" alt="Sohanur Rahman | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
@@ -22,7 +22,7 @@
 
 <br />
 
-### Languages and Tools:
+### 💻Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
