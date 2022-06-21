@@ -63,7 +63,7 @@
 <img align="left" alt="Github streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sohanur-rahman0&theme=radical&hide_border=false" />
 <br/>
 <br/>
-![Sohanur's GitHub stats](https://github-readme-stats-updated-git-master-sohanur-rahman0.vercel.app/api?username=sohanur-rahman0&show_icons=true&theme=radical)
+[Sohanur's GitHub stats](https://github-readme-stats-updated-git-master-sohanur-rahman0.vercel.app/api?username=sohanur-rahman0&show_icons=true&theme=radical)
 
 
 
