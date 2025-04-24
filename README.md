@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohanur-rahman0" alt="sohanur-rahman0" /></a> </p>
 
-- 🔭 I’m currently working on [foodFalcon](https://foodfalconbd.com/)
+- 🔭 I’m currently working at Genesys Software.
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Shopify fulfillment Service Integration**
 
-- 👯 I’m looking to collaborate on **backend projects**
+- 👯 I’m looking to collaborate on **Sass Software**
 
-- 💬 Ask me about **node, express, mongodb**
+- 💬 Ask me about **Backend Engineering**
 
 - 📫 How to reach me **sajeebsrs@gmail.com**
 
