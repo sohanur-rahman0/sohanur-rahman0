@@ -35,7 +35,7 @@
   <a href="https://instagram.com/sohanur.rahman149/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/srsajeeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
   <a href="https://codeforces.com/profile/sohanur_rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/sohanurrahman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="LeetCode" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/sohanurrahman/" target="blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo_rvs.png" alt="LeetCode" height="30" width="40" /></a>
 </p>
 
 ---
